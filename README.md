@@ -8,7 +8,7 @@
 
 ## Live Demo
 
-You can view the live demo of this portfolio website on Netlify:
+You can view the live demo of this porto website on Netlify:
 <br>
 Netlify: [Responsive Portfolio Website](https://ritoncharlox-portfolio-website.netlify.app/)
 
